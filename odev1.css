@@ -1,0 +1,39 @@
+
+body {
+    font-family: 'Raleway', sans-serif;;
+}
+
+h1 {
+    color: #A85CF9;
+    text-align: center;
+    font-size: 40px;
+}
+
+#link {
+    text-align: center;
+    font-size: 16px;
+    color: #5534A5;
+}
+
+h2 {
+    color: #4B7BE5;
+    text-align: center;
+}
+
+h3 {
+    color: #6FDFDF;
+    text-align: center;
+}
+
+.list {
+    list-style-position: inside;
+    text-align: center; 
+}
+
+.baslik2 {
+    text-align:left ; font-size: 16px;
+}
+
+img {
+    height: 300px;
+}
